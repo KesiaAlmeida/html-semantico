@@ -35,8 +35,7 @@ Teste do *itálico*
  ```js
 document.querySelector('html')
 
-```java
-System.out.println( 'Olá, mundo em Java!')`;
+
 ```
 
 Frutas | Doces
