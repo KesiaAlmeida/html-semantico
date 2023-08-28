@@ -13,7 +13,6 @@ Teste do *itálico*
 * Gengibre
 * Pepino
 * Gergelim
-* Kani
 * Shoyu
   
  - Banana
