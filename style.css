@@ -93,16 +93,20 @@ article{
 
 .menu-principal li{
     color: var(--cor-quaternaria);
+    line-height: 50px;
     display: flex;
+    transition: background .35s ease-in-out, font .2s;
         
 }
 
 .menu-principal a{
     color: var(--cor-quaternaria);
     font-family: var(--fonte-secundaria);
-    font-size: 120px;
+    font-size: 120%;
+    padding: 0 20px;
 }
 
 .menu-principal a:hover{
     background-color: #CD6688;
+    font-size: 130%;
 }
